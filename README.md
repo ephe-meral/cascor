@@ -6,6 +6,10 @@ This repo contains the notebooks & code published to the medium series of the sa
 
 - [Part 1: Cascade Correlation](https://github.com/ephe-meral/cascor/blob/master/cascor_part1.ipynb)
 
+## Extras
+
+- [Quickprop](https://github.com/ephe-meral/cascor/blob/master/quickprop.ipynb)
+
 ## Usage
 
 The project was done with Python 3.6.
